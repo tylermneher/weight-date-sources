@@ -1,8 +1,3 @@
-#map {
-  width: 100%;
-  height: 640px;
-}
-
 h1 {
   font-family: "Lucida Console", Courier, monospace;
   font-style: oblique;
@@ -28,6 +23,11 @@ td {
 }
 
 #linkTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#chartLinkTable {
   margin-left: auto;
   margin-right: auto;
 }
