@@ -10,12 +10,6 @@ h2 {
   text-align: center;
 }
 
-#linkTable {
-  font-family: "Lucida Console", Courier, monospace;
-  font-style: normal;
-  text-align: start;
-}
-
 table,
 th,
 td {
@@ -25,11 +19,17 @@ td {
 #linkTable {
   margin-left: auto;
   margin-right: auto;
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: normal;
+  text-align: start;
 }
 
 #chartLinkTable {
   margin-left: auto;
   margin-right: auto;
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: normal;
+  text-align: start;
 }
 
 footer {
